@@ -1,4 +1,4 @@
-Dear Sir or Madam,                                                                                                London, 03.08.2023
+Dear Sir or Madam,                                                                                                
 
 
 in this project I demonstrate my understanding of
@@ -33,5 +33,5 @@ The sub-projects are as follows:
     
 Sincerely,
 
-Felicitas Schulze-Steinen
+Felicitas Schulze-Steinen (London, 03.08.2023)
 
