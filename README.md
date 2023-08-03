@@ -26,7 +26,7 @@ The sub-projects are as follows:
 
 - First, I prepare the dataset so that it can be processed, for example encode categorical data and streamline the dataset so that all necessary parameters are present. Then I compute credit scores by scaling the data,  applying weights, calculating the sum of each weighted parameter and scaling it to the range between 300 and 850.
 
-4. Modelling and validating a predictive Random Forest model:
+4. Model and validate a predictive Random Forest model:
 
 - I prepare and simplify the data so that it can be easily fit to a Random Forest Classification model.I find the best parameters for the model by means of hyperparameter tuning. I check for performance metrics like accuracy and ROC score. I check the learning curve to understand which train-test-validation split is most appropriate for the data at hand. Lastly, I predict new observations and consider whether the predictions make sense.
     
