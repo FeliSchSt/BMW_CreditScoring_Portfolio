@@ -4,9 +4,7 @@ Dear Sir or Madam,
 in this project I demonstrate my understanding of
 
 1. Credit Scoring methods
-2. Data Science methods (Python libraries: Pandas, NumPy, Seaborn,  Matplotlib, Scikit-learn)
-
-I specifically created the project using Python language to get an understanding of possible challenges that I might encounter if I get accepted for the following internship position: https://www.bmwgroup.jobs/de/de/jobfinder/job-description.98544.html. 
+2. Data Science methods (Python libraries: Pandas, NumPy, Seaborn,  Matplotlib, Scikit-learn) 
 
 The overall objective is to create a credit scoring system for sample data. The steps I took follow https://www.investopedia.com/terms/c/credit_score.asp. Note that I did not do in-depth research to verify the assumptions (even though I am aware of general guidelines like https://thedocs.worldbank.org/en/doc/935891585869698451-0130022020/original/CREDITSCORINGAPPROACHESGUIDELINESFINALWEB.pdf. Also note that I had to make a range of assumptions. I am aware that in a 'real-world' context, most of them are not valid. However, this exercise serves to show you my approaches to problem-solving. Therefore, making strong assumptions is deemed acceptable.
 
@@ -33,5 +31,5 @@ The sub-projects are as follows:
     
 Sincerely,
 
-Felicitas Schulze-Steinen (London, 03.08.2023)
+Felicitas Schulze-Steinen (London, 16.08.2023)
 
